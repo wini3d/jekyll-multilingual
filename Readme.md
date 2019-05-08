@@ -6,7 +6,7 @@ It is based on the [**Making *Jekyll* multilingual**](https://www.sylvaindurand.
 
 You can check the demo on [sylvaindurand.github.io/jekyll-multilingual/](https://sylvaindurand.github.io/jekyll-multilingual/).
 
-**Warning**: this repo is not maintained anymore.
+**Warning**: this repo is not maintained anymore by its author, but pull requests are still welcomed.
 
 
 ## Make your website multilingual
